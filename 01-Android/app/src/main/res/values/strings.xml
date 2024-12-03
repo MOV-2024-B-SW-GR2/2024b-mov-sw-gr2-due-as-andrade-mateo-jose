@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">gr2sw2024b_mjda</string>
+    <string name="saludo">MD TAREA 001 LANDS-ES</string>
+    <color name="saludo_color">#964B00</color>
+    <color name="saludo_fondo">#F5E4C3</color>
+</resources>
