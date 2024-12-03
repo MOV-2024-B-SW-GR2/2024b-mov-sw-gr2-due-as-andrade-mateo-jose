@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">MD TAREA 001 PORT-EN</string>
+    <color name="saludo_color">#4B0096</color>
+    <color name="saludo_fondo">#2A4F2E</color>
+</resources>

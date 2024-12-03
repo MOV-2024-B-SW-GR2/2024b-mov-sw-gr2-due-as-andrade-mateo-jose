@@ -1,0 +1,2 @@
+1|Carol Velasquez|2024-01-15|false|80000.0|1
+2|Mateo Duenas|2024-12-03|true|1200.0|2

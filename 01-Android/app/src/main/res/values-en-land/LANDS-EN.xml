@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">MD TAREA 001 LANDS-EN</string>
+    <color name="saludo_color">#4BB4D6</color>
+    <color name="saludo_fondo">#002B36</color>
+</resources>
